@@ -20,6 +20,30 @@
     background-repeat: no-repeat;
 }
 
+.landing-header{
+    color: var(--White, #FFF);
+    text-align: center;
+    
+    /* Inter/64, 500, medium, 77 */
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 77px; /* 120.313% */
+}
+
+.landing-header-it{
+    color: var(--White, #FFF);
+text-align: center;
+
+/* Merriweather/64, 400, regular, italic, 80 */
+font-family: Merriweather;
+font-size: 64px;
+font-style: italic;
+font-weight: 400;
+line-height: 80px; /* 125% */
+}
+
 .btn-svg{
     display: flex;
     justify-content: flex-start;
