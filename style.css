@@ -143,6 +143,18 @@ font-weight: 400;
 line-height: 50px;
 }
 
+.service-list-item{
+    border-radius: 10px;
+border: 1px solid var(--Gray-100, #EEE);
+}
+
+.service-list-wrapper{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
 .service-list-main{
     color: var(--Black, #171717);
 
