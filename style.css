@@ -241,3 +241,47 @@ font-style: normal;
 font-weight: 400;
 line-height: 47px; /* 120.513% */
 }
+
+.doctors-main{
+    color: var(--Black, #171717);
+
+/* Merriweather/39, 400, regular, italic, 50 */
+font-family: Merriweather;
+font-size: 39px;
+font-style: italic;
+font-weight: 400;
+line-height: 50px; /* 128.205% */
+}
+
+.cons{
+background-color: #171717;
+}
+
+.cons-list-item{
+    color: var(--Gray-600, #888);
+
+/* Inter/14, 400, regular, 20 */
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 142.857% */
+}
+
+.item-header{
+    color: var(--White, #FFF);
+font-family: Inter;
+font-size: 49px;
+font-style: normal;
+font-weight: 400;
+line-height: 55px; /* 112.245% */
+}
+
+.item-header-it{
+    color: var(--White, #FFF);
+font-family: Merriweather;
+font-size: 49px;
+font-style: italic;
+font-weight: 400;
+line-height: 55px;
+}
