@@ -146,7 +146,9 @@ line-height: 50px;
 .service-list-item{
     border-radius: 10px;
 border: 1px solid var(--Gray-100, #EEE);
+width: 400px;
 }
+
 
 .service-list-wrapper{
     padding-top: 20px;
