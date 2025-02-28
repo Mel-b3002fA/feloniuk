@@ -65,5 +65,19 @@ line-height: 26px; /* 162.5% */
     display: flex;
     max-width: 100px;
     max-height: 100px;
+}
+
+.service-list{
+    color: var(--Black, #171717);
+
+/* Inter/39, 500, medium, 47 */
+font-family: Inter;
+font-size: 39px;
+font-style: normal;
+font-weight: 500;
+line-height: 47px; /* 120.513% */
+}
+
+.service-header{
     
 }
