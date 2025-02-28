@@ -13,3 +13,10 @@
 .header-list2{
     display: flex;
 }
+
+.landing{
+    background-image: url(./img/pexels-maksgelatin-4352247.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
