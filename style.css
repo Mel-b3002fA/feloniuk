@@ -211,8 +211,8 @@ line-height: 47px;
 }
 
 .searches-list-item{
-    width: 500px;
-    border-style: bottom solid #666 1px !important;
+    width: 100%;
+    border-bottom: 1px solid var(--Gray-100, #EEE);
 }
 
 .item-wrapper{
