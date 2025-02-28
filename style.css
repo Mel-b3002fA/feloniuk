@@ -79,5 +79,27 @@ line-height: 47px; /* 120.513% */
 }
 
 .service-header{
-    
+
+}
+
+.service-list-main{
+    color: var(--Black, #171717);
+
+/* Inter/25, 500, medium, 30 */
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 120% */
+}
+
+.service-list-para{
+    color: var(--Gray-700, #666);
+
+/* Inter/16, 400, regular, 22 */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 137.5% */
 }
