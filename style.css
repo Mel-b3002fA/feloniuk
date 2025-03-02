@@ -466,3 +466,7 @@ line-height: 50px; /* 128.205% */
 .reviews-list-item{
     width: 210px;
 }
+
+.carousel-item{
+    width: 200px;
+}
